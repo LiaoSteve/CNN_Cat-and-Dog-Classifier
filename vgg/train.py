@@ -51,7 +51,7 @@ x = layers.Dense(4096, activation="relu")(x)
 x = layers.Dense(4096, activation="relu")(x)
 outputs = layers.Dense(10, activation="softmax")(x)
 
-model = keras.Model(inputs, outputs, name="VGG_16")
+model = keras.Model(inputs, outputs, name="VGG_16_cat_or_dog")
 model.summary()
 
 model.compile(

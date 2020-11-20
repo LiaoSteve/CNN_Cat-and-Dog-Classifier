@@ -50,7 +50,7 @@ model.compile(
     metrics=["accuracy"],
 )
 
-history = model.fit(x_train, y_train, batch_size=64, epochs=2, validation_split=0.2)
+history = model.fit(x_train, y_train, batch_size=64, epochs=50, validation_split=0.2)
 
 import pandas as pd
 from matplotlib import pyplot as plt
