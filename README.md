@@ -3,6 +3,7 @@
 - CUDA Toolkit and driver version: https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html/
 - tensorflow cuda cudnn version
 https://www.tensorflow.org/install/source#gpu
+- keras and tensorflow version: https://docs.floydhub.com/guides/environments/
 - install tensorflow-gpu, cuda, and cudnn via conda
     ```bash  
     # create env
