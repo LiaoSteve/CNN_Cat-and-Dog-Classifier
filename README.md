@@ -1,3 +1,5 @@
+## See the code here
+https://github.com/LiaoSteve/cat_or_dog-cnn/blob/master/train-cat-dog-classifier.ipynb
 ## How to install tenserflow
 - Install anaconda
 - CUDA Toolkit and driver version: https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html/
